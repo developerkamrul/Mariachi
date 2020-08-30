@@ -1,0 +1,155 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
+.my-nav {
+  background-color: #4a1831;
+}
+.logo-img {
+  width: 288px;
+  height: 63px;
+}
+
+.hero-section {
+  background: url('../images/hero-img.png');
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 600px;
+  position: relative;
+}
+
+.hero {
+  padding-top: 15px;
+}
+
+.order-btn {
+  width: 200px;
+  border-radius: 40px;
+  font-size: 20px;
+  color: black;
+}
+
+.miss-menu-section {
+  padding-top: 80px;
+  background-color: #ffd7ad;
+  padding-bottom: 80px;
+}
+.demo-img {
+  width: 100vw;
+  height: 100vh;
+}
+.header-color {
+  color: #4a1831;
+}
+.see-menu-btn {
+  background-color: #4a1831;
+  color: #ffd7ad;
+  width: 200px;
+  border-radius: 40px;
+}
+
+.about-section {
+  background-color: #ffd7ad;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.about-section img {
+  height: 300px;
+}
+
+.about-text {
+  padding-top: 80px;
+}
+
+.offer-section {
+  width: 100vw;
+  height: 100vh;
+  background: url(../images/offer3.png), #ffd7ad;
+
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.offer-section-2 {
+  padding-top: 80px;
+  background-color: #4a1831;
+  padding-bottom: 80px;
+}
+
+.offer2 {
+  padding-top: 100px;
+}
+
+.offer2-text {
+  color: #ffd7ad;
+}
+.see-offer-btn {
+  width: 200px;
+  background-color: #ffd7ad;
+  border-radius: 40px;
+}
+
+.shape-section {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url('../images/Shape2.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  padding: 130px;
+
+  color: #ffd7ad;
+}
+
+.contact-section {
+  background-color: #ffd7ad;
+  color: #4a1831;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.contact-form {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.contact-form input,
+button {
+  border-radius: 40px;
+  position: relative;
+}
+.contact-form button {
+  border-radius: 40px;
+  background-color: #4a1831;
+  color: white;
+  border-bottom-left-radius: 40px !important;
+  border-top-left-radius: 40px !important;
+  position: absolute;
+  left: -7px;
+}
+
+.footer {
+  background-image: url('../images/Shape-end.png');
+
+  padding-top: 125px;
+  color: #ffd7ad;
+  padding-bottom: 130px;
+}
+
+.footer .footer img {
+  padding-right: 15px;
+}
+.list-group {
+  list-style-type: none;
+}
+
+.demo {
+  background-image: url(../images/rectangle1.png);
+  height: 350px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

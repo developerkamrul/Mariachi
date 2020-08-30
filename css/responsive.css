@@ -1,0 +1,41 @@
+@media (max-width: 575.98px) {
+  .offer2-img {
+    padding-top: 40px;
+    text-align: center;
+  }
+  .offers {
+    padding-top: 500px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .offer2-img {
+    text-align: center;
+    padding-top: 40px;
+  }
+  .offer2 {
+    text-align: center;
+  }
+  .about-img {
+    display: none;
+  }
+  .offers {
+    padding-top: 500px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .offer2-img {
+    text-align: center;
+    padding-top: 40px;
+  }
+  .offer2 {
+    text-align: center;
+  }
+  .about-img {
+    display: none;
+  }
+  .offers {
+    padding-top: 500px;
+  }
+}
