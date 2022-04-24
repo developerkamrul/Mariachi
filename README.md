@@ -2,4 +2,4 @@
 PSD to HTML practice
 
 
-#  https://itiskamrul.github.io/Mariachi/
+#  https://developerkamrul.github.io/Mariachi/
